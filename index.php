@@ -30,8 +30,8 @@
 <div class="container">
 <table class="table table-dark table-striped">
 <tr>
-<th>name</th>
-<th>password</th>
+<th>Name</th>
+<th>Location</th>
 <th colspan="2">Action</th>
 </tr>
 <?php 
